@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-its @izzyluuuuh
+its [@izzyluuuuh](https://github.com/izzyluuuuh)
 
 <!--
 **itsnotizzy/itsnotizzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
